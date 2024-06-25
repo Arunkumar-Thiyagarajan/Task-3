@@ -1,0 +1,16 @@
+let obj1 = {name: "person1",age:5};
+let obj2 = {age:5,name: "person1"};
+
+function are object not Equal (obj1,obj2)
+{
+    const str1 = json.str1(obj1);
+    const str2 = json.str2(obj2);
+    return strobj1 === strobj2
+}
+{
+    else
+};
+console.log(are object are not equal(obj1,obj2));
+
+
+git init
